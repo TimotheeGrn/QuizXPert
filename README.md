@@ -15,7 +15,7 @@
 
 1. Clonez le dépôt : `git clone https://github.com/Yueag-solutions/QuizXpert.git`
 2. Accédez au répertoire du projet : `cd QuizXpert`
-3. Exécutez le script : `python lecteur.py`
+3. Exécutez le script : `python config.py`
 
 ## Utilisation
 Pour `lecteur.py` :
