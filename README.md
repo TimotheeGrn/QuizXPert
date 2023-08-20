@@ -18,12 +18,12 @@
 3. Exécutez le script : `python lecteur.py`
 
 ## Utilisation
-
+Pour `lecteur.py` :
 1. Entrez le nom du fichier `.quizz` lorsque vous y êtes invité.
 2. Répondez aux questions en sélectionnant le numéro approprié.
-3. Profitez de l'expérience vibrante de la console et recevez un retour instantané.
-4. Obtenez votre score final et voyez à quel point vous avez performé.
+3. Obtenez votre score final et voyez à quel point vous avez performé.
 
+Pour `create_quiz.py`
 ## Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à soumettre des demandes de fusion pour améliorer **QuizXPert** et en faire un outil encore plus incroyable pour les passionnés de quizz.
