@@ -1,6 +1,6 @@
 # QuizXpert : Votre Compagnon Ultime pour les Quizz
 
-![Logo QuizMaster](quizmaster_logo.png)
+![Logo QuizMaster](OIG (26).jpeg)
 
 **QuizXpert** est un puissant outil en Python qui vous permet de créer, gérer et participer à des quizz interactifs en toute simplicité en utilisant le format innovant `.quizz`. Dites adieu aux questionnaires monotones et adoptez une manière plus excitante de tester vos connaissances.
 
@@ -15,7 +15,7 @@
 
 1. Clonez le dépôt : `git clone https://github.com/Yueag-solutions/QuizXpert.git`
 2. Accédez au répertoire du projet : `cd QuizXpert`
-3. Exécutez le script : `python quizmaster.py`
+3. Exécutez le script : `python lecteur.py`
 
 ## Utilisation
 
