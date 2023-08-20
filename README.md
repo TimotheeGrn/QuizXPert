@@ -23,7 +23,12 @@ Pour `lecteur.py` :
 2. Répondez aux questions en sélectionnant le numéro approprié.
 3. Obtenez votre score final et voyez à quel point vous avez performé.
 
-Pour `create_quiz.py`
+Pour `create_quiz.py` :
+Entrer le nom de votre quiz et suivez le instructions, votre fichier sera générée a la fin.
+
+Pour `example.quizz` :
+`example.quizz` est le fichier d'exemple, il permet de comprendre la structure des fichiers quiz.
+Vous pouvez écrire votre fichier quiz depuis un modèle, mais c'est plus rapide avec `create_quiz.py`
 ## Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à soumettre des demandes de fusion pour améliorer **QuizXPert** et en faire un outil encore plus incroyable pour les passionnés de quizz.
