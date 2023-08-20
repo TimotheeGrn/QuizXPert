@@ -4,11 +4,12 @@
 
 **QuizXpert** est un puissant outil en Python qui vous permet de créer, gérer et participer à des quizz interactifs en toute simplicité en utilisant le format innovant `.quizz`. Dites adieu aux questionnaires monotones et adoptez une manière plus excitante de tester vos connaissances.
 
+**Veuillez noter que ce projet est actuellement en cours de conception.** Les lecteurs de quizz seront créés sur différents supports pour vous offrir une expérience de quizz captivante et polyvalente.
+
 ## Fonctionnalités
 
 - **Quizz Sans Couture** : Générez des quizz en fournissant un fichier `.quizz` et préparez-vous pour une expérience captivante.
 - **Interface Interactive** : L'interface de la console, enrichie en couleurs, rend chaque session de quizz dynamique et captivante.
-- **Retour Instantané** : Obtenez un retour immédiat sur vos réponses, vous aidant à apprendre et à progresser rapidement.
 - **Configuration Sans Effort** : Suivez simplement quelques étapes simples pour configurer votre quizz et embarquez pour un voyage de connaissances.
 
 ## Installation
