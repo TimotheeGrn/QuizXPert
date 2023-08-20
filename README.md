@@ -1,6 +1,6 @@
 # QuizXpert : Votre Compagnon Ultime pour les Quizz
 
-![Logo QuizMaster](OIG (26).jpeg)
+![Logo QuizMaster](image.jpeg)
 
 **QuizXpert** est un puissant outil en Python qui vous permet de créer, gérer et participer à des quizz interactifs en toute simplicité en utilisant le format innovant `.quizz`. Dites adieu aux questionnaires monotones et adoptez une manière plus excitante de tester vos connaissances.
 
